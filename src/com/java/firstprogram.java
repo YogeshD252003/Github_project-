@@ -7,6 +7,8 @@ public class firstprogram {
 		System.out.println("Third commit..!");
 		System.out.println("Final commit..!");
 		System.out.println("Last stage did u see..!");
+		System.out.println("Tharaniii...");
+	    System.out.println("Yogi");
 	}
 
 }
